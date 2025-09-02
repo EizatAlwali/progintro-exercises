@@ -6,5 +6,11 @@ Useful links:
 - [Is it Christmas?](https://isitchristmas.com)
 
 ## Formatting Examples:
+
+ HEAD
 1. *Italic* tekst.
 2. **Bold** tekst.
+
+1. *Italic* emphasis.
+2. **Bold** emphasis.
+
